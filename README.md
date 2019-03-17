@@ -1,5 +1,6 @@
 # Nucleo-F401RE Quickstart
-Branched from Japarics cortex-m quickstart crate.
+This is the [Cortex-M Quickstart](https://github.com/rust-embedded/cortex-m-quickstart)
+with some changes to make it work with Nucleo-F401RE dev board. 
 
 ## Instructions to flash
 
